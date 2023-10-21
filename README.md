@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<div align=center width=640> 
+</div>
 <!-- Languages -->
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=61dafb"> 
 <img src="https://img.shields.io/badge/html5-20232a?style=for-the-badge&logo=html5&logoColor=61dafb"> 
@@ -68,7 +70,7 @@ Here are some ideas to get you started:
   <img width=320 height=150 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnhjh&layout=compact&theme=react&hide_border=true&card_height=150&card_width=320" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img width=640 align=center src="https://github-readme-activity-graph.vercel.app/graph?username=johnhjh&theme=react&color=61DAFB&bg_color=20232a&hide_border=true"/>
