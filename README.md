@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-20232a?style=for-the-badge&logo=css3&logoColor=61dafb">
 <img src="https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=61dafb"> 
 <img src="https://img.shields.io/badge/java-20232a?style=for-the-badge&logo=java&logoColor=61dafb">
-<img src="https://img.shields.io/badge/c sharp-20232a?style=for-the-badge&logo=c sharp&logoColor=61dafb">
 <!-- Front-end -->
 <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb">
 <img src="https://img.shields.io/badge/redux-20232a?style=for-the-badge&logo=redux&logoColor=61dafb">
@@ -58,17 +57,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jmeter-20232a?style=for-the-badge&logo=apachejmeter&logoColor=61dafb">
 <!-- Game Development -->
 <img src="https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=unity&logoColor=61dafb">
-
-<br><br>
-
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=320 height=150 align=center src="https://github-readme-stats.vercel.app/api?username=johnhjh&theme=react&hide=stars&show_icons=true&hide_border=true&count_private=true&card_height=150&card_width=320" />
-</a>
-<!-- Most Used Langauges -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=320 height=150 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnhjh&layout=compact&theme=react&hide_border=true&card_height=150&card_width=320" />
-</a>
 
 <br><br>
 
