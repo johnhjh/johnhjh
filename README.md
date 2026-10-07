@@ -58,12 +58,4 @@ Here are some ideas to get you started:
 <!-- Game Development -->
 <img src="https://img.shields.io/badge/unity-20232a?style=for-the-badge&logo=unity&logoColor=61dafb">
 
-<br><br>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img width=640 align=center src="https://github-readme-activity-graph.vercel.app/graph?username=johnhjh&theme=react&color=61DAFB&bg_color=20232a&hide_border=true"/>
-</a>
-
-<br><br><br>
-
 </div>
